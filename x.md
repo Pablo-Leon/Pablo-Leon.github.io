@@ -163,3 +163,8 @@ Estas tablas se copian desde POMELO en cada actualización de CM_PUBLISH
 * glo_sede
 * glo_sexo
 * glo_tipo_establecimiento
+
+* ejem:
+    * Rep_Dotacion_Muni.html
+    * Rep_Dotacion_SectPub.html
+    
